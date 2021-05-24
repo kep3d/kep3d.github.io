@@ -2,7 +2,7 @@
 title: kep3d
 email: bonner.kdb@gmail.com
 url: https://kep3d.github.io
-description: "Personal Portfolio site."
+description: "Just a little about me"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: kep3d 2021
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
